@@ -1,0 +1,5 @@
+google_auth_oauthlib==0.4.1
+python_telegram_bot==12.8
+google_api_python_client==1.12.1
+protobuf==3.13.0
+telegram==0.0.1
